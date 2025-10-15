@@ -1,7 +1,11 @@
 # Backtest de Estratégia de Proteção de Capital (CPPI) vs. Buy & Hold
 
 Um estudo de caso quantitativo sobre a eficácia da estratégia *Constant Proportion Portfolio Insurance* (CPPI) para a Petrobras (PETR4) durante a Crise Financeira de 2008.
+### Acesso Rápido
 
+Para uma análise interativa do código ou para visualizar o notebook renderizado, utilize os links abaixo:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manoelbarroso-python-finance/cppi-portfolio-protection-analysis/blob/main/cppi_2008.ipynb)
+[![View as HTML](https://img.shields.io/badge/View%20as-HTML-blue.svg)](https://htmlpreview.github.io/?https://github.com/manoelbarroso-python-finance/cppi-portfolio-protection-analysis/blob/main/cppi_2008.ipynb)
 ---
 
 ## Objetivo do Projeto
