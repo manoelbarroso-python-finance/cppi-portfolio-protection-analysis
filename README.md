@@ -5,7 +5,7 @@ Um estudo de caso quantitativo sobre a eficácia da estratégia *Constant Propor
 
 Para uma análise interativa do código ou para visualizar o notebook renderizado, utilize os links abaixo:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manoelbarroso-python-finance/cppi-portfolio-protection-analysis/blob/main/cppi_2008.ipynb)
-[![View as HTML](https://img.shields.io/badge/View%20as-HTML-blue.svg)](https://htmlpreview.github.io/?https://github.com/manoelbarroso-python-finance/cppi-portfolio-protection-analysis/blob/main/cppi_2008.ipynb)
+[![View with nbviewer](https://img.shields.io/badge/View%20with-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/manoelbarroso-python-finance/cppi-portfolio-protection-analysis/blob/main/cppi_2008.ipynb)
 ---
 
 ## Objetivo do Projeto
