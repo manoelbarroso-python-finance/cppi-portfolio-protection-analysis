@@ -1,0 +1,18 @@
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de checkpoint do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos de ambiente virtual
+.venv/
+venv/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
